@@ -23,7 +23,7 @@ class UsuarioTableSeeder extends Seeder {
                 'celular' => '(91)982841155',
                 'email' => 'dennys@bredi.com.br',
                 'username' => 'dennys',
-                'password' => bcrypt('bredi')
+                'password' => bcrypt('dennys')
             ]
         );
     }
